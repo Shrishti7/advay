@@ -11,7 +11,7 @@ class Pig extends BaseClass {
       super.display();
     }
     else{
-      console.log("Vanished Pig");
+     // console.log("Vanished Pig");
     }
    
   }
